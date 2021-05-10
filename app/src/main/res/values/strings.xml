@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Fragment</string>
+    <string name="btn">Button</string>
+    <string name="text" />
+    <string name="tv_text">text</string>
+    <string name="button">show_toast</string>
 </resources>
